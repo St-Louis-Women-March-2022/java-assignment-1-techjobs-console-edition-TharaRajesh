@@ -145,7 +145,7 @@ public class TechJobs {
             }
             test += "\r\n" + "*****" + "\r\n";
         }
-        System.out.print(test);
+        System.out.print(test.trim());
 
     }
 }
